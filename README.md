@@ -1217,24 +1217,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 - [Inkscape](https://inkscape.org/) - Professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers.
 - [Kdenlive](https://kdenlive.org/en/) - Free and open source video editor from KDE
 
-# 3. Awesome Linux Software
-
-## News
-
-- **May 2025:** A new web app for browsing Awesome Linux Software has been released! Check it out at [luong-komorebi.github.io slash Awesome Linux Software](https://luong-komorebi.github.io/Awesome-Linux-Software/).
-
-🐧 This repo is a collection of **AWESOME** Linux applications and tools for **any users/developers**.
-
-🐧 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcome.
-
-**Acknowledgement:** _Everything written below is from my own experience in college and after reading various materials. I am neither a professional nor an expert, but a passionate user. Anyone can open a discussion in the issue section, or a pull request if something should be modified or added._
-
-- Arabic version : [here](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_ar-AR.md).
-- Brazilian Portuguese version : [here](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_pt-BR.md).
-- Chinese version : [here](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [here](https://github.com/eniqiz/Awesome-Linux-Software-zh_CN).
-- French version : [here](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_fr-FR.md).
-- Spanish version : [here](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_es-ES.md) or [here](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md).
-- Thai version : [here](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_th-TH.md).
+# 3. 3D Printing
 
   - [3D Printing](#3d-printing)
     - [Edit-Mix-Record](#edit-mix-record)
