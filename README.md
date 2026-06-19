@@ -8,8 +8,9 @@ Features:
 - Original credits preserved
 
 ---
+
+![Tux](img/tux.png)
 # Linux Apps
-I Just Switch As to Linux Of Writing This Are Some Of Linux Apps They Are From Github Credits To them
 
 # 1.  Awesome Linux Software
 
