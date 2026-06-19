@@ -1,14 +1,3 @@
-# Linux Apps Collection
-
-A merged and cleaned markdown list collected from multiple open-source repositories.
-
-Features:
-- Duplicate entries removed where possible
-- Formatting cleaned
-- Original credits preserved
-
----
-
 ![Tux](img/tux.png)
 # Linux Apps
 
